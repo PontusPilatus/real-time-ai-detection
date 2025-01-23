@@ -1,5 +1,4 @@
 # Real-Time Emotion, Age, and Gender Detection
-# Realtids Känslor-, Ålders- och Könsigenkänning
 
 A real-time computer vision application that detects faces and predicts age, gender, and emotions using deep learning models.
 
